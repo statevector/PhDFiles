@@ -1,11 +1,11 @@
-# Dissertation and Defense Presentation
+# Dissertation and Ph.D. Defense Slides
 
 Here I include my:
 
 1. [dissertation](https://github.com/statevector/PhDThesis/blob/master/willis_thesis.pdf); <br>
 2. [defense presentation](https://github.com/statevector/PhDThesis/blob/master/willis_presentation.pdf).
 
-(you might want to right-click save-as, as these are pretty large)
+(you might want to right-click save-as, as these are fairly large)
 
 ## Explanation of my Ph.D. (An analysis of Large Hadron Collider (LHC) data)
 
