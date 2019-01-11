@@ -3,7 +3,7 @@
 Here I include my:
 
 1. [dissertation](https://github.com/statevector/PhDThesis/blob/master/willis_thesis.pdf); <br>
-2. [defense presentation](https://github.com/statevector/PhDThesis/blob/master/willis_slides.pdf).
+2. [defense presentation](https://github.com/statevector/PhDThesis/blob/master/willis_presentation.pdf).
 
 ## Explanation of my Ph.D. (An analysis of Large Hadron Collider (LHC) data)
 
