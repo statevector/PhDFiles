@@ -15,16 +15,12 @@ For my Ph.D., I analyzed several terabytes of proton-proton collision data gener
 "[New Physics](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model)" predicted by various extensions of our 
 current fundamental theory of Particle Physics, the [Standard Model](https://home.cern/science/physics/standard-model).
 
-The topic of my dissertation is "A Search for Resonant Z' Production in the High-Mass Dielectron Final States". In this case, 
-the hypothetical [Z' particle](https://en.wikipedia.org/wiki/W%E2%80%B2_and_Z%E2%80%B2_bosons) is predicted to decay into an electron 
+The topic of my dissertation is "A Search for Resonant Z' Production in the High-Mass Dielectron Final States". Here, the New Physics takes the form of a hypothetical new elementary particile called the [Z' Boson](https://en.wikipedia.org/wiki/W%E2%80%B2_and_Z%E2%80%B2_bosons), which, in this case, is predicted to decay into an electron 
 and positron pair, and it is this signature that is searched for in the resulting debris of the LHC proton-proton collisions. The 
 observation of several electron-positron pairs above what the Standard Model nominally predicts would count towards evidence of Z' 
-production, and hence towards the possibility of "New Physics".
+production, and hence towards Physics Beyond the Standard Model.
 
-However, no significant deviations from the Standard Model prediction were observed, and as a result, multiple models predicting Z' 
-physics at the LHC were able to be excluded. As this was the first measurement of this process during the upgraded 2nd experimental
-run of the LHC, some of the best limits to date were able to be set on Z' production. If a Z' boson does exist, it must have an 
-enormous mass, roughly 4,500 times the mass of the proton.
+The results of the search showed no significant deviations from the Standard Model prediction, and as a result, multiple models predicting Z' physics at the LHC were able to be excluded. As this was the first measurement of this process during the upgraded 2nd experimental run of the LHC, some of the best limits to date were able to be set on Z' production. If a Z' Boson does exist, it must have an enormous mass, roughly 4,500 times the mass of the proton.
 
 This project included but was not limited to the following steps:
 
