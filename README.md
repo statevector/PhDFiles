@@ -5,7 +5,7 @@ Here I include my:
 1. [dissertation](https://github.com/statevector/PhDThesis/blob/master/willis_thesis.pdf) <br>
 2. [defense presentation](https://github.com/statevector/PhDThesis/blob/master/willis_presentation.pdf)
 
-(you might want to right-click save-as, since each of these are pretty large)
+(you might want to right-click save-as, since each are fairly large)
 
 ## An analysis of Large Hadron Collider (LHC) data, or: Searching for high-mass Dilepton Resonances
 
